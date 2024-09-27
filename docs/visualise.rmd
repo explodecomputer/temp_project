@@ -1,0 +1,6 @@
+```{r}
+library(ggplot2)
+library(here)
+
+load(here("results/a.rdata"))
+```
